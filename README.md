@@ -1,7 +1,8 @@
 # TestMonitoringEC2Instance
 ## Topology:
 
-![236](https://github.com/K-izme/TestMonitoringEC2Instance/assets/91515708/4e8a3c47-a5bb-45ac-a2d7-86923f2d1a0c)
+![236](https://github.com/K-izme/TestMonitoringEC2Instance/assets/91515708/adc8a8d0-69b2-499b-a0a6-01fca1fb051b)
+
 
 linux server
 
@@ -45,4 +46,5 @@ sudo systemctl status grafana-server
 
 goto ip:3000 => data source => prometheus 
 
-![image](https://github.com/K-izme/TestMonitoringEC2Instance/assets/91515708/e2c4ad26-f3e4-4471-bd31-f2d0a36540d9)
+![image](https://github.com/K-izme/TestMonitoringEC2Instance/assets/91515708/44a47b59-d1fa-4f86-ae2d-0003156d9442)
+
