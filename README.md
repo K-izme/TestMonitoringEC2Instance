@@ -44,3 +44,5 @@ sudo systemctl status grafana-server
 ```
 
 goto ip:3000 => data source => prometheus 
+
+![image](https://github.com/K-izme/TestMonitoringEC2Instance/assets/91515708/e2c4ad26-f3e4-4471-bd31-f2d0a36540d9)
